@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://c92059c9-7e8e-412d-bfa3-14b73e3c3b77.ws-eu01.gitpod.io",
+    "address": "https://ac416d9f-ab1d-4ba1-b7a3-f8ff696a5fa0.ws-eu01.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -61,7 +61,7 @@
         {
             "slug": "03-Print-variables-in-the-console",
             "title": "03-Print-variables-in-the-console",
-            "done": false,
+            "done": true,
             "path": "exercises/03-Print-variables-in-the-console",
             "translations": [
                 "es",
@@ -72,7 +72,7 @@
         {
             "slug": "04-Multiply-two-values",
             "title": "04-Multiply-two-values",
-            "done": false,
+            "done": true,
             "path": "exercises/04-Multiply-two-values",
             "translations": [
                 "es",
@@ -83,7 +83,7 @@
         {
             "slug": "05-User-inputed-variables",
             "title": "05-User-inputed-variables",
-            "done": false,
+            "done": true,
             "path": "exercises/05-User-inputed-variables",
             "translations": [
                 "es",
@@ -94,7 +94,7 @@
         {
             "slug": "06-Constants",
             "title": "06-Constants",
-            "done": false,
+            "done": true,
             "path": "exercises/06-Constants",
             "translations": [
                 "es",
@@ -105,7 +105,7 @@
         {
             "slug": "07-String-concatenation",
             "title": "07-String-concatenation",
-            "done": false,
+            "done": true,
             "path": "exercises/07-String-concatenation",
             "translations": [
                 "es",
@@ -116,7 +116,7 @@
         {
             "slug": "08-Create-a-basic-HTML",
             "title": "08-Create-a-basic-HTML",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Create-a-basic-HTML",
             "translations": [
                 "es",
@@ -127,7 +127,7 @@
         {
             "slug": "09-Calling-your-first-function",
             "title": "09-Calling-your-first-function",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Calling-your-first-function",
             "translations": [
                 "es",
@@ -138,7 +138,7 @@
         {
             "slug": "10-Creating-your-first-function",
             "title": "10-Creating-your-first-function",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Creating-your-first-function",
             "translations": [
                 "es",
