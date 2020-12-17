@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://ac416d9f-ab1d-4ba1-b7a3-f8ff696a5fa0.ws-eu01.gitpod.io",
+    "address": "https://e3649afa-9209-47a9-b379-b96dfd24b9d3.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -149,7 +149,7 @@
         {
             "slug": "11-Create-a-new-function",
             "title": "11-Create-a-new-function",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Create-a-new-function",
             "translations": [
                 "es",
@@ -160,7 +160,7 @@
         {
             "slug": "12-Your-first-if",
             "title": "12-Your-first-if",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Your-first-if",
             "translations": [
                 "es",
@@ -171,7 +171,7 @@
         {
             "slug": "13-How-much-the-wedding-costs",
             "title": "13-How-much-the-wedding-costs",
-            "done": false,
+            "done": true,
             "path": "exercises/13-How-much-the-wedding-costs",
             "translations": [
                 "es",
@@ -182,7 +182,7 @@
         {
             "slug": "14-Your-first-switch",
             "title": "14-Your-first-switch",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Your-first-switch",
             "translations": [
                 "es",
@@ -193,7 +193,7 @@
         {
             "slug": "15-Random-numbers",
             "title": "15-Random-numbers",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Random-numbers",
             "translations": [
                 "es",
@@ -204,7 +204,7 @@
         {
             "slug": "16-Rand-from-one-to-six",
             "title": "16-Rand-from-one-to-six",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Rand-from-one-to-six",
             "translations": [
                 "es",
@@ -215,7 +215,7 @@
         {
             "slug": "17-Your-first-loop",
             "title": "17-Your-first-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/17-Your-first-loop",
             "translations": [
                 "es",
@@ -226,7 +226,7 @@
         {
             "slug": "18-Create-a-for-loop",
             "title": "18-Create-a-for-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Create-a-for-loop",
             "translations": [
                 "es",
@@ -237,7 +237,7 @@
         {
             "slug": "19-While-loop",
             "title": "19-While-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/19-While-loop",
             "translations": [
                 "es",
@@ -248,7 +248,7 @@
         {
             "slug": "20-Random-colors-loop",
             "title": "20-Random-colors-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/20-Random-colors-loop",
             "translations": [
                 "es",
@@ -259,7 +259,7 @@
         {
             "slug": "21-Looping-with-FizzBuzz",
             "title": "21-Looping-with-FizzBuzz",
-            "done": false,
+            "done": true,
             "path": "exercises/21-Looping-with-FizzBuzz",
             "translations": [
                 "es",
@@ -270,7 +270,7 @@
         {
             "slug": "22-Russian-Roulette",
             "title": "22-Russian-Roulette",
-            "done": false,
+            "done": true,
             "path": "exercises/22-Russian-Roulette",
             "translations": [
                 "es",
